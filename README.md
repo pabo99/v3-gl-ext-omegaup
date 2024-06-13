@@ -44,6 +44,11 @@ npm run build
 </script>
 ```
 
+### Screenshots
+
+![Vue-Golden-Layout](gl-omegaup.png)
+
+
 ### Properties
 
 If `router` is true, every route change will either open a new tab or select the good one if already opened. Also, the url changes with tab change.
