@@ -1,26 +1,25 @@
-<template>
-	Welcome aboard!
-</template>
+<template>Welcome aboard!</template>
 
 <style>
 html {
-	height: 100%;
+    height: 100%;
 }
 body {
-	height: 100%;
-	margin: 0;
-	overflow: hidden;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
 }
-.full-height, #app {
-	height: 100%;
+.full-height,
+#app {
+    height: 100%;
 }
 #app {
-	font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 #nav {
-	text-align: center;
+    text-align: center;
 }
 </style>
 

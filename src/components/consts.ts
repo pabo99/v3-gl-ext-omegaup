@@ -1,1 +1,1 @@
-export const layoutKey = Symbol("layout");
+export const layoutKey = Symbol('layout');

@@ -1,3 +1,4 @@
-import GoldenLayout from "./GoldenLayout.vue";
+import GoldenLayout from './GoldenLayout.vue';
+import SettingsComponent from './SettingsComponent.vue';
 
-export { GoldenLayout };
+export { GoldenLayout, SettingsComponent };
